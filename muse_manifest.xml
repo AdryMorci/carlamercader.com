@@ -1,0 +1,68 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="contact.css" crc="333095091" ref="contact"/>
+    <file name="projects.css" crc="3833033105" ref="projects"/>
+    <file name="index.css" crc="274060988" ref="index"/>
+    <file name="video.css" crc="308384348" ref="video"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:projects:contact"/>
+    <file name="museutils.js" crc="3865766194" ref="index:video:projects:contact"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:video:projects:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u69-6-a.png" crc="491339063" ref="index"/>
+    <file name="foto1.jpg" crc="197987353" ref="index"/>
+    <file name="3.jpg" crc="3786270112" ref="index"/>
+    <file name="u72-4.png" crc="385585718" ref="index"/>
+    <file name="u75-4.png" crc="4092855208" ref="index"/>
+    <file name="u76-5.png" crc="3942938739" ref="index"/>
+    <file name="u274-5.png" crc="4244918184" ref="index"/>
+    <file name="13113970_467005393488462_1346457897_n.jpg" crc="4294549189" ref="index"/>
+    <file name="12930909_693751987394097_1940356813_n.jpg" crc="4084521794" ref="index"/>
+    <file name="13108921_232629040432014_1888029033_n.jpg" crc="51976875" ref="index"/>
+    <file name="tumblr_mwxl1aexkl1re4fe4o1_1280.jpg" crc="340239201" ref="index"/>
+    <file name="12530851_1724898454412018_814437745_n.jpg" crc="3758820611" ref="index"/>
+    <file name="11378085_996016960484939_970532760_n (1).jpg" crc="4214351322" ref="index"/>
+    <file name="11910323_1010067039056147_487803776_n.jpg" crc="3980006285" ref="index"/>
+    <file name="12728644_1702330410023978_1372962993_n.jpg" crc="243259596" ref="index"/>
+    <file name="12599470_860198657459145_738221778_n.jpg" crc="3921666704" ref="index"/>
+    <file name="12907376_258382714494870_303488512_n.jpg" crc="426274572" ref="index"/>
+    <file name="u238-6.png" crc="491339063" ref="video"/>
+    <file name="u293-4.png" crc="358143466" ref="video"/>
+    <file name="u294-4-a.png" crc="4247074958" ref="video"/>
+    <file name="u295-5.png" crc="3942938739" ref="video"/>
+    <file name="u296-5.png" crc="4244918184" ref="video"/>
+    <file name="u239-6.png" crc="491339063" ref="projects"/>
+    <file name="bestisyet.png" crc="3899977790" ref="projects"/>
+    <file name="flyfaraway.png" crc="4182802863" ref="projects"/>
+    <file name="u250-4.png" crc="371330988" ref="projects"/>
+    <file name="cartell.jpg" crc="261471366" ref="projects"/>
+    <file name="u298-4.png" crc="417806168" ref="projects"/>
+    <file name="u299-4.png" crc="4092855208" ref="projects"/>
+    <file name="u300-5-a.png" crc="3976353162" ref="projects"/>
+    <file name="u301-5.png" crc="4244918184" ref="projects"/>
+    <file name="sushimini.jpg" crc="4280386176" ref="projects"/>
+    <file name="u256-10.png" crc="4262996010" ref="projects"/>
+    <file name="1000pigs.jpg" crc="3935815420" ref="projects"/>
+    <file name="congratsdraw2.jpg" crc="351605614" ref="projects"/>
+    <file name="u262-4.png" crc="4205288155" ref="projects"/>
+    <file name="u273-4.png" crc="103860077" ref="projects"/>
+    <file name="product.jpg" crc="4248964417" ref="projects"/>
+    <file name="u386-4.png" crc="3806929221" ref="projects"/>
+    <file name="u391-4.png" crc="179028775" ref="projects"/>
+    <file name="img_4963.jpg" crc="3793586952" ref="projects"/>
+    <file name="u313-6.png" crc="491339063" ref="contact"/>
+    <file name="u314-4.png" crc="417806168" ref="contact"/>
+    <file name="u315-4.png" crc="4092855208" ref="contact"/>
+    <file name="u316-5.png" crc="3942938739" ref="contact"/>
+    <file name="u317-5-a.png" crc="4233491797" ref="contact"/>
+    <file name="hola.png" crc="188841358" ref="contact"/>
+    <file name="u334-4.png" crc="368872960" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="63391516" mt="1555004398874" redirect="true"/>
+  <file name="video.html" crc="212874021" mt="1555004555343" redirect="true"/>
+  <file name="projects.html" crc="274654536" mt="1555004398876" redirect="true"/>
+  <file name="contact.html" crc="4242260418" mt="1555004398878" redirect="true"/>
+</manifest>
